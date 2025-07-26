@@ -1,6 +1,6 @@
 # bun-react-tailwind-shadcn-template
 
-This repo includes ready to use instructions for shadcn/ui and tailwindcss.
+This repo includes ready to use instructions for shadcn/ui and tailwindcss for cursor.
 
 To install dependencies:
 
